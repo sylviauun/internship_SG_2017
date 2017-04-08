@@ -11,6 +11,18 @@ img{
 	margin: 0 auto;
 }
 
+.gambar-kiri{
+	padding: 0cm 25cm 0cm 3cm;	
+	width: 25%;
+
+}
+
+.gambar-kanan{
+	padding: 0 cm 20cm 0cm 25cm;	
+	width: 25%;
+      
+}
+
 .gede{
 	font-size: 1em;
 	text-align: center;	
